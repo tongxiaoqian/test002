@@ -11,6 +11,7 @@ def login():
     return content
 print('haha')
 print('嘿嘿')
+print('xixi')
 
 if __name__ == '__main__':
     app.run()
