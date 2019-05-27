@@ -15,7 +15,7 @@ def login():
         content = f.read()
     return content
 
-
+num1 = 10
 if __name__ == '__main__':
     # 运行服务器、
     app.run()
