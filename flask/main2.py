@@ -9,7 +9,7 @@ def login():
     with open('login.html') as f:
         content = f.read()
     return content
-
+print('haha')
 
 if __name__ == '__main__':
     app.run()
