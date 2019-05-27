@@ -10,6 +10,7 @@ def login():
         content = f.read()
     return content
 print('haha')
+print('嘿嘿')
 
 if __name__ == '__main__':
     app.run()
